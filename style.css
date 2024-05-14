@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #605748;
+    height: 60px;
+}
+
+
+.navbar {
+    height: 50px;
+}
+
+main {}
+
+.info-container {
+    background-image: url("paper-brain-with-chat-bubbles.jpg");
+    min-height: 70vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: #75adaa;
+}
+
+.info-container h1 {
+    color: white;
+    margin: 0;
+}
+
+.info-container h2 {
+    color: #605748
+}
+
+.card-container {
+    background-color: #b57120;
+}
+
+.card-container .card-info {
+    width: 20%;
+}
+
+.card img {
+    width: 100%;
+}
+
+.psy-container img {
+    width: 60%;
+    border: #b57120 3px solid;
+    border-radius: 100%;
+}
+
+.psy-container {
+    background-color: #5b7677;
+}
+
+.psy-card .list-group-item {
+    background-color: #5b7677;
+    color: white;
+}
+
+.therapy-container {
+    background-color: #605748;
+}
+
+.therapy-container .therapy-img img {
+    width: 100%;
+    border-radius: 100%;
+}
+
+.therapy-container .therapy-list li {
+    background-color: #da9059;
+}
