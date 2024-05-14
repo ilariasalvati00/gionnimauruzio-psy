@@ -61,6 +61,10 @@ main {}
     color: white;
 }
 
+.psy-card h1 {
+    color: #3c3c3c;
+}
+
 .therapy-container {
     background-color: #605748;
 }
@@ -72,4 +76,12 @@ main {}
 
 .therapy-container .therapy-list li {
     background-color: #da9059;
+}
+
+.therapy-list h1 {
+    color: #3c3c3c;
+}
+
+.contacts-container {
+    background-color: #5b7677;
 }
